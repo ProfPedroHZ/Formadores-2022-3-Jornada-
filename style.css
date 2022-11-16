@@ -37,12 +37,16 @@ nav a:hover {
 }
 
 .texto-principal {
+  position: relative;
   margin-right: 20%;
+  margin-left: 20%;
 }
 
 h1 {
-  color: #d3d3d3;
+  color: #1c1c1c;
   text-align: center;
+  font-size: 30px;
+  font-weight: bold;
 }
 
 h2 {
