@@ -55,14 +55,14 @@ h2 {
 
 p {
   color: #808080;
+  padding-bottom: 5%;
 }
 
 #imagem-principal {
-  width: 10%;
-  margin-left: 80%;
-  border: 5px dotted salmon;
-  float: left;
-  position: absolute;
+  width: 100%;
+  position: relative;
+  padding-top: 5%;
+  padding-bottom: 5%;
 }
 
 .itens {
